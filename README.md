@@ -7,13 +7,12 @@ Soy un Desarrollador de software con experiencia en resolución de problemas ló
  
 ## Habilidades
 
-Lenguajes de Programacion
+Lenguajes de Programacion y tecnologías 
 
 <br>
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Visual Basic](https://img.shields.io/badge/visual_basic-512BD4?style=for-the-badge&logo=visualbasic&Color=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -21,7 +20,7 @@ Lenguajes de Programacion
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=red)
+
  
 Base de datos
 
