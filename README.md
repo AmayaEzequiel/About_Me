@@ -62,7 +62,7 @@ Herramientas
 
 <br>
 
-![Analisis2](https://github-readme-stats.vercel.app/api/top-langs/?username=EZKL31&theme=blue-green)
+![Analisis2](https://github-readme-stats.vercel.app/api/top-langs/?username=AmayaEzequiel&theme=blue-green)
  
 ## Contacto
 
